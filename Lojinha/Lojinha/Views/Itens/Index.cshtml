@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Lojinha.Models.Itens>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                
+            <th>
+                @Html.DisplayNameFor(model => model.Pedido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pedido.UsuarioId)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Pedido.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto.Id)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Pedido.Id  }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.Pedido.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.Pedido.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

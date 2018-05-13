@@ -1,0 +1,41 @@
+﻿@model Lojinha.Models.Usuario
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="jumbotron">
+    <h2>Deletar</h2>
+</div>>
+
+<h3>Você tem certeza de quer excluir?</h3>
+<div>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Cpf)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Cpf)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index" class="btn btn-default">Voltar a Lista</a>
+    </form>
+</div>

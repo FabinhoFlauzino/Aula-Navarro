@@ -1,0 +1,33 @@
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.deps.json
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.runtimeconfig.json
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.runtimeconfig.dev.json
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.dll
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.pdb
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.csprojResolveAssemblyReference.cache
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.csproj.CoreCompileInputs.cache
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.AssemblyInfoInputs.cache
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.AssemblyInfo.cs
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.dll
+C:\Users\Fabinho\source\repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.pdb
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.deps.json
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.runtimeconfig.json
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.runtimeconfig.dev.json
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.dll
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.pdb
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.csprojResolveAssemblyReference.cache
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.csproj.CoreCompileInputs.cache
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.AssemblyInfoInputs.cache
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.AssemblyInfo.cs
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.dll
+C:\Users\estud\Source\Repos\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.pdb
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.deps.json
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.runtimeconfig.json
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.runtimeconfig.dev.json
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.dll
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\bin\Debug\netcoreapp2.0\Lojinha.pdb
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.csprojResolveAssemblyReference.cache
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.csproj.CoreCompileInputs.cache
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.AssemblyInfoInputs.cache
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.AssemblyInfo.cs
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.dll
+C:\Users\Fabinho\Desktop\Trabalhos 5º Semestre\Lojinha\Lojinha\Lojinha\obj\Debug\netcoreapp2.0\Lojinha.pdb

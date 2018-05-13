@@ -1,0 +1,46 @@
+﻿@model Lojinha.Models.Itens
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Você tem certeza de quer excluir?</h3>
+<div>
+    <h4>Itens</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedido)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pedido.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedido.QtdeItens)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pedido.QtdeItens)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedido.Usuario)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pedido.UsuarioId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Produto)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Produto.Nome)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="PedidoId" />
+        <input type="hidden" asp-for="ProdutoId" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
